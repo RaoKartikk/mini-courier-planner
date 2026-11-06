@@ -102,4 +102,4 @@ git tag -a v1.0-final-submission -m "Final capstone submission"
 git push origin main --tags
 ```
 
-Submit the repository URL through the LMS/Zosima portal. This local project package does not create or publish a GitHub repository automatically.
+
